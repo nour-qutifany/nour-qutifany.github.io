@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Nour Qutifany",
+    "label": "journalist",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "email": "noor.quti.9595@gmail.com",
     "phone": "808-333-4444",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "i'm mass communication graduated from ahram cnadian univercity in 2020 , i'm syrian live in egypt",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -16,24 +16,14 @@
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "Facebook",
+        "username": "noor.qutifany",
+        "url": "https://www.facebook.com/noor.qutifany/"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "noor_alqutii",
+        "url": "https://www.instagram.com/noor_alqutii/"
       }
     ]
   },
